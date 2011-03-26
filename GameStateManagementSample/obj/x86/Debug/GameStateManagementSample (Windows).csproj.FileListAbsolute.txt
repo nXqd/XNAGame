@@ -1,0 +1,17 @@
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\gamefont.xnb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.exe
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.pdb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.exe
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.pdb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\MessageFont.xnb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\backgroundMusic.xnb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\backgroundMusic.wma
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\MapTiles\black.xnb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\MapTiles\white.xnb
+C:\Documents and Settings\Office\Desktop\GSMSample_4_0_WIN_XBOX\GameStateManagementSample\bin\x86\Debug\Content\background-fade.xnb
